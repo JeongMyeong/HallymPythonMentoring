@@ -30,7 +30,7 @@ Python 언어의 기본적인 문법을 포함해 다른 언어(C,Java)와의 �
 - 조건문(if)
 - 조건부표현식
 
-### 확인문제 (이때까지 배운 내용 연습문제)
+### 확인문제 <[링크](https://github.com/JeongMyeong/HallymPythonMentoring/blob/master/Basic%20Problem.ipynb)>(이때까지 배운 내용 연습문제)
 - 자료1 ~ 자료2
 
 ### 자료3 <[링크](https://github.com/JeongMyeong/HallymPythonMentoring/blob/master/Mentoring_Resource3.ipynb)>
