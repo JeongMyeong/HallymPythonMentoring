@@ -1,4 +1,4 @@
-# HallymPythonMentoring
+﻿# HallymPythonMentoring
 ### <4월1일 ~ 5월 31일> 진행  
 
 ### <참여자> 멘토:1명/멘티:8명
@@ -38,5 +38,6 @@ Python 언어의 기본적인 문법을 포함해 다른 언어(C,Java)와의 �
 - 연습문제
 
 ### 자료4 (함수) 만들예정.
+- 
 
 
