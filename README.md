@@ -36,8 +36,7 @@ Python 언어의 기본적인 문법을 포함해 다른 언어(C,Java)와의 �
 ### 자료3 <[링크](https://github.com/JeongMyeong/HallymPythonMentoring/blob/master/Resource_Files/Mentoring_Resource3.ipynb)>
 - 반복문(while, for)
 - 연습문제
-
-### 자료4 (함수) 만들예정.
+### 자료4 <[링크](https://github.com/JeongMyeong/HallymPythonMentoring/blob/master/Resource_Files/Mentoring_Resource4.ipynb)>
 - 
 
 
